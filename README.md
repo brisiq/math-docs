@@ -1,3 +1,4 @@
+![Documentation Check](https://github.com/brisiq/math-docs/actions/workflows/check-docs.yml/badge.svg)
 # Mathematics Library Documentation
 
 ## 1. Basic Arithmetic
